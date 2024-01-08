@@ -1,0 +1,13 @@
+name = "ExclusionProcess"
+uuid = "4d29344a-6f7d-450b-be90-1d91f40b97af"
+authors = ["Wandao123 <20665675+Wandao123@users.noreply.github.com>"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
